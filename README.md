@@ -1,14 +1,14 @@
 # Hi there, I'm Hafsa! 👋  
 
 🚀 **Frontend Developer | Aspiring Full-Stack Developer**  
-💻 **React | TypeScript | Bootstrap**  
+💻 **React | TypeScript | Bootstrap | UI/UX**  
 🎨 **Social Media Manager & Designer**  
 
 I love crafting responsive, high-performance web applications and constantly exploring new front-end technologies. Currently, I'm diving deeper into full-stack development to expand my skills!  
 
-🌱 **Currently Learning:** Full-Stack Development (Backend & Databases)  
+🌱 **Currently Learning:** Backend Development (Node.js, Databases)  
 📌 **Focused on:** React CV Templates, UI/UX, and High-Demand Frontend Projects  
-📫 **Let's Connect:** [LinkedIn](www.linkedin.com/in/hafsa-s-7a6b37197) 
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/hafsa-s-7a6b37197)  
 
 ---
 
@@ -20,15 +20,16 @@ I love crafting responsive, high-performance web applications and constantly exp
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
 
+### 🛠️ Backend (Exploring)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
 ---
 
 ## 📊 GitHub Stats  
 
-![Hafsa's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafsaxyz&show_icons=true&theme=radical)  
+![Hafsa's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafsaxyz&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafsaxyz&layout=compact&theme=radical)  
-
----
-
 
 ---
 
@@ -36,6 +37,3 @@ I love crafting responsive, high-performance web applications and constantly exp
 💬 Feel free to reach out if you're looking for collaboration or just want to chat about React, UI/UX, or tech in general!  
 
 💡 *"The best way to predict the future is to create it."* – Alan Kay  
-
-
-
